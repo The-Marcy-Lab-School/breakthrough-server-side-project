@@ -44,11 +44,19 @@ Because this unit was called **Server-Side** Development, we want you to focus o
 - ERD must be approved by an instructor before any coding begins
 
 ### Step 2. Build Out the Back-end
+<<<<<<< HEAD
 
 - Create database migratations
 - Build RESTful API routes that return data in a JSON format
 - Only 1 model needs to have full CRUD
 - Use POSTMAN to test your routes
+=======
+* Create database migratations
+* Build RESTful API routes that return data in a JSON format
+* Only 1 model needs to have full CRUD
+* Code must be encapsulated into classes
+* Use POSTMAN to test your routes
+>>>>>>> b396a71b6496f3f8b7528226e4d5aa12cf955ebb
 
 ### Step 3. Build Out the Front-end (UI of your choice)
 
