@@ -3,7 +3,7 @@
 Congratulatory note about how much they've learn about Express and databases so far.
 
 ## Project Description 
-* Building an Express API to be consumed by a Front-end client.
+Building an Express API to be consumed by a Front-end client.
 
 ## Scope and Project Requirements
 
