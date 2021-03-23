@@ -29,7 +29,7 @@ The possibilities are endless, but keep in mind a reasonable scope for this proj
 ## WHY
 
 - Chance to practice and solidfy this unit's materials.
-- In preparation for their Demo Day projects at the end of the fellowship.
+- In preparation for your Demo Day projects at the end of the fellowship.
 - To have fun!
 
 ## Guidelines
