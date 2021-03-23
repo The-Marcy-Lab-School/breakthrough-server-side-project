@@ -41,6 +41,7 @@ Because this unit was called **Server-Side** Development, we want you to focus o
 * Create database migratations
 * Build RESTful API routes that return data in a JSON format
 * Only 1 model needs to have full CRUD
+* Code must be encapsulated into classes
 * Use POSTMAN to test your routes
 
 ### Step 3. Build Out the Front-end (UI of your choice)
